@@ -1,4 +1,3 @@
 package core;
 
-public class Lion extends Cat{
-}
+public class Lion extends Cat{}

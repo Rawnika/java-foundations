@@ -21,8 +21,6 @@ public class Farm {
         System.out.println(murochka.getNameBreed());
 
 
-
-
     }
 
 }

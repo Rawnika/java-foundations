@@ -5,7 +5,7 @@ public class AllIn {
         Alien sementioniks = new Alien("Mars", "red", 5);
         Book harryPotter = new Book("Harry Potter", "J. Rowling");
         Book carrie = new Book("Carrie", 199, "S. King");
-        Cup myLovelyCup = new Cup (15, "black&white");
+        Cup myLovelyCup = new Cup(15, "black&white");
         Man stepa = new Man("Stepa", 180.5, "blond");
         Notebook diary = new Notebook(200, "red");
         Shop myKingdom = new Shop("Shopping mall", "Ronika", "myKingdom");

@@ -13,7 +13,4 @@ import lombok.Setter;
 public class Cow {
     private String nameBreed;
     private String colour;
-
-
-
 }

@@ -11,7 +11,7 @@ public class CatHouse {
         Cat bagira = new Panther();
         bagira.sayMeow();
 
-        DomesticCat murochka = new DomesticCat("Murochka",3.0,true);
+        DomesticCat murochka = new DomesticCat("Murochka", 3.0, true);
 
         System.out.println(murochka.getName());
 
